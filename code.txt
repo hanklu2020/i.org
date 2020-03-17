@@ -1,0 +1,8 @@
+git init
+git add .
+git status
+git remote add origin https://github.com/hanklu2020/pythondemo_03172020.git
+git push origin master
+
+
+ls
