@@ -1,8 +1,9 @@
+ls
+cd -
+
 git init
 git add .
 git status
+git commit -m "Second commit"
 git remote add origin https://github.com/hanklu2020/pythondemo_03172020.git
 git push origin master
-
-
-ls
